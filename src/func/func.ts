@@ -1,1 +1,0 @@
-export const func = (a: number) => console.log(`result: ${a * 3}`)

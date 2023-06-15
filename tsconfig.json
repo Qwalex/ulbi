@@ -6,6 +6,7 @@
         "allowSyntheticDefaultImports": true,
         "moduleResolution": "node",
         "baseUrl": "./",
+        "jsx": "react-jsx",
         "paths": {
             "@/*": ["*"]
         },
