@@ -5,10 +5,10 @@
         "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
         "moduleResolution": "node",
-        "baseUrl": "./",
+        "baseUrl": "./src",
         "jsx": "react-jsx",
         "paths": {
-            "@/*": ["*"]
+            "src/*": ["src/*"]
         },
     },
     "ts-node": {
